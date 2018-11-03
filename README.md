@@ -1,2 +1,2 @@
 # pg-go
-Test for using PostgreSQL databases with Golang
+How to use PostgreSQL databases with Golang ?
